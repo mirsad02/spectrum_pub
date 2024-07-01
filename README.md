@@ -1,2 +1,5 @@
-# spectrum_pub
-spectrum_public
+# spectrum web client
+spectrum web client
+
+example:
+https://kravmagatuzla.ba/
